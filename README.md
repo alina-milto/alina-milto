@@ -30,7 +30,11 @@ Built the email notification system on Celery: booking reminders, notifications 
 
 ## Contacts
 
-Email: azul.qilin@gmail.com · LinkedIn: [your profile]((https://www.linkedin.com/in/alina-milto/)
-Codewars: [alina-milto](https://www.codewars.com/users/alina-milto) · LeetCode: [alina-milto](https://leetcode.com/u/alina-milto/)
+## Contacts
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azul.qilin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-milto/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/alina-milto)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alina-milto/)
 
 🔍 Open to work as a remote Python Backend Developer
