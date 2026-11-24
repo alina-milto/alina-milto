@@ -8,19 +8,19 @@ Based in Barcelona, Spain · Open to remote roles.
 
 ## Tech stack
 
-[![Tech stack](https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,rabbitmq,docker,nginx,githubactions,git,linux,pytest)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,rabbitmq,docker,nginx,githubactions,git,linux)](https://skillicons.dev)
 
-Also: Django REST Framework, SQLAlchemy, Alembic, Celery, Pydantic
+Also: Django REST Framework, SQLAlchemy, Alembic, Celery, Pydantic, Pytest
 
 ## Projects
 
-**[Foodgram](https://github.com/alina-milto/foodgram)** · Django, DRF, PostgreSQL, Docker, GitHub Actions
+**[Foodgram](https://github.com/alina-milto/foodgram)** · Django, DRF, PostgreSQL, Docker, GitHub Actions  
 Recipe sharing service with shopping lists. Cut the recipe list from 44 to 6 database queries, covered the API with tests in CI, deployed with Docker and Nginx.
 
-**[Cat Charity Fund](https://github.com/alina-milto/cat-charity-fund)** · FastAPI, SQLAlchemy, Alembic, Pytest
+**[Cat Charity Fund](https://github.com/alina-milto/cat-charity-fund)** · FastAPI, SQLAlchemy, Alembic, Pytest  
 Async API for a charity fund with automatic donation allocation and reports exported to Yandex Disk.
 
-**Cafe booking service** · Celery, RabbitMQ, Docker · *team project*
+**Cafe booking service** · Celery, RabbitMQ, Docker · *team project*  
 Built the email notification system on Celery: booking reminders, notifications for admins and managers, Flower monitoring.
 
 ## Education
